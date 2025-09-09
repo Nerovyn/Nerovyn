@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nerovyn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript, Python
+- 🌱 I’m currently learning Javascript, Java
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me @neronoopps
 
